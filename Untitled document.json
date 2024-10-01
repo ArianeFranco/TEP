@@ -1,0 +1,22 @@
+{
+  "name": "Untitled document",
+  "description": "Crafting Dialogues that Drive Business Success.",
+  "icon": null,
+  "is_component": false,
+  "endpoint_name": null,
+  "data": {
+    "nodes": [],
+    "edges": [],
+    "viewport": {
+      "zoom": 1,
+      "x": 0,
+      "y": 0
+    }
+  },
+  "folder_id": "f835a574-95fd-4fde-87b6-a9390797a4f3",
+  "icon_bg_color": null,
+  "updated_at": "2024-09-19T23:32:59+00:00",
+  "webhook": false,
+  "id": "2e367d9a-d2f5-4787-9729-32e6f1aa46a4",
+  "user_id": "5a5a8638-b4b0-4042-b2f7-62ee74197913"
+}
